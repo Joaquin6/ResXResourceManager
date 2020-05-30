@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/dotnet-foundation/swag/master/logo/dotnetfoundation_v4.svg" alt=".NET Foundation" width=100>](https://dotnetfoundation.org)
+[<img src="https://raw.githubusercontent.com/dotnet-foundation/swag/master/logo/dotnetfoundation_v4_small.png" alt=".NET Foundation" width=150>](https://dotnetfoundation.org)
 
 # ResX Resource Manager [![Build status](https://dev.azure.com/tom-englert/Open%20Source/_apis/build/status/ResXManager)](https://dev.azure.com/tom-englert/Open%20Source/_build/latest?definitionId=7) [![Backers on Open Collective](https://opencollective.com/ResXResourceManager/backers/badge.svg)](#backers)  [![Sponsors on Open Collective](https://opencollective.com/ResXResourceManager/sponsors/badge.svg)](#sponsors) 
 
